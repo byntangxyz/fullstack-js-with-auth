@@ -1,5 +1,8 @@
 # Express + ReactJS + MongoDB
 
+![Preview-1](./preview/home-d.png)
+
+
 Well you're Javascript ethusiast? You want to build a web application with a backend and a frontend only using javascript? This template may be for you!
 
 I've been creating a template for a web application using Express, ReactJS and MongoDB. This template includes simple authentication system and dashboard with middleware protection. Here's are all the ✨ Features:
