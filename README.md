@@ -1,4 +1,4 @@
-# MongoDB + Express + React + Node (MERN) with Auth
+# MERN Template with Auth
 
 ![Preview-1](./preview/home-d.png)
 
