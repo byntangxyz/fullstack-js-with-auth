@@ -68,7 +68,14 @@ cp server/.env.example server/.env
 
 ```
 
-You can modify the `.env` file to suit your needs.
+You can modify the `.env` file to suit your needs. Here thedefaultc configuration:
+```env
+MONGO_URI=mongodb://localhost:27017/yourdb
+JWT_SECRET=iloveyoursister
+PORT=5000
+```
+> Make sure you've installed [MongoDB](https://www.mongodb.com/try/download/community) onyourC computer
+
 
 ### 4. Run the Application
 
