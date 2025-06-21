@@ -68,7 +68,7 @@ cp server/.env.example server/.env
 
 ```
 
-You can modify the `.env` file to suit your needs. Here thedefaultc configuration:
+You can modify the `.env` file to suit your needs. Here are the default configuration:
 ```env
 MONGO_URI=mongodb://localhost:27017/yourdb
 JWT_SECRET=iloveyoursister
