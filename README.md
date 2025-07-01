@@ -44,7 +44,7 @@ I've been creating a template for a web application using Express, ReactJS and M
 
 ```bash
 git clone https://github.com/byntangxyz/fullstack-js-with-auth.git
-cd fullstacks-js-with-auth
+cd fullstack-js-with-auth
 ```
 
 ### 2. Install Dependencies
