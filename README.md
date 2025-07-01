@@ -43,7 +43,7 @@ I've been creating a template for a web application using Express, ReactJS and M
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/byntangxyz/fullstacks-js-with-auth.git
+git clone https://github.com/byntangxyz/fullstack-js-with-auth.git
 cd fullstacks-js-with-auth
 ```
 
